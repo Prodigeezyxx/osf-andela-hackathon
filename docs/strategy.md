@@ -28,3 +28,10 @@ Can a judge answer — after 10 seconds of the video — *what makes this differ
 - Everything important exists in writing in the repo (judges may read more than they watch).
 - Summary written for a non-technical reviewer; deck readable on a phone.
 - No claim without a demoed feature or a cited source.
+
+
+## Rule compliance — idea provenance (keep receipts)
+- The judged rule: no AI-generated capstone idea. Our idea traces to Iyobosa's own pre-hackathon framework (SPSS, originated/published before Sept 2026).
+- "Original approach" = ours, not copied. Do not copy Build Up/Phoenix; do not fork an existing tool as the submission.
+- Do not submit the existing SPSS site as the project. The PoC must be a NEW build: specific user, specific information problem, built during the sprint. SPSS = the lens/engine, the build is new.
+- Keep the trail visible: First Thoughts doc (11 Sep), SPSS public site + open RQs, daily build log, commit history.

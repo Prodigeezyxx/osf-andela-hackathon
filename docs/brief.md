@@ -37,3 +37,11 @@ Kickoff 10 Sep · Deadline 21 Sep 23:59 UTC · Grading 22–24 Sep · Winners 25
 - Submissions can be updated as many times as you like → submit v1 early, iterate.
 - Five winners — we need top 5, not perfect-first.
 - Project shouldn't just present information — it should improve how people engage with governments and public services.
+
+
+## Rule clarification — "original idea" vs "no AI-generated idea"
+The brief says: "Please refrain from using AI to generate your capstone idea" and asks us to "develop an original approach." It does NOT require an idea that has never existed before, and it does NOT forbid building on your own prior work.
+
+- COMPLIANT: SPSS is Iyobosa's own original framework — originated and published BEFORE the hackathon (CC 4.0, authored, public research agenda). Using it as the design lens is the opposite of an AI-generated idea.
+- THE ONE LINE WE HOLD: the capstone build must be a NEW working PoC created during the sprint — a specific tool for a specific community, not a re-submission of the existing SPSS website.
+- RECEIPTS for uniqueness: SPSS site + open research questions (pre-hackathon), First Thoughts log dated 11 Sep, GitHub history.
