@@ -35,3 +35,8 @@ Can a judge answer — after 10 seconds of the video — *what makes this differ
 - "Original approach" = ours, not copied. Do not copy Build Up/Phoenix; do not fork an existing tool as the submission.
 - Do not submit the existing SPSS site as the project. The PoC must be a NEW build: specific user, specific information problem, built during the sprint. SPSS = the lens/engine, the build is new.
 - Keep the trail visible: First Thoughts doc (11 Sep), SPSS public site + open RQs, daily build log, commit history.
+
+## Track decision (11 Sep)
+- Cross-track = ONE submission, not two. The Track field is single-select; the "Cross-track / other" option exists precisely for entries spanning 2+ tracks.
+- Decision: enter cross-track — **Stability & Social Cohesion + Transparency & Accountability**. The bridge: reliable civic information makes institutions accountable AND reduces everyday friction/tension.
+- Two separate submissions (one per track) = double deliverables and no rule support: rejected.
