@@ -1,5 +1,29 @@
-.DS_Store
-Thumbs.db
+# dependencies
 node_modules/
 .venv/
+
+# build output
 dist/
+dist-ssr/
+*.local
+
+# vite pwa generated
+dev-dist/
+sw.js
+workbox-*
+
+# logs
+npm-debug.log*
+yarn-error.log*
+build.log
+
+# editor / os
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# secrets — never commit
+.env
+.env.local
+.env.*.local
